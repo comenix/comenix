@@ -1,22 +1,17 @@
 # Comenix
 
-**Home Planet** of the [Luminaries](https://www.comenix.com) digital universe.
+**Home Planet** of the [Luminaries digital universe](https://www.comenix.com).
 
-Independent brands run on one platform:
+Independent brands run on one platform — **Constellation, Presentation, Chariot, Traveler, Stations, and Security** — each on its own domain.
 
-| Capability | Role |
-|---|---|
-| [Constellation](https://www.comenix.com/#/pages/constellation) | Every brand its own domain and audience |
-| [Presentation](https://www.comenix.com/#/pages/presentation) | One story, every screen |
-| [Chariot](https://www.comenix.com/#/pages/chariot) | Checkout that fits each market |
-| [Traveler](https://www.comenix.com/#/pages/traveler) | One account across every brand |
-| [Stations](https://www.comenix.com/#/pages/stations) | Seats, renewals, and domains together |
-| [Security](https://www.comenix.com/#/pages/security) | Delivery and protection built in |
+## Start here
 
-## Brand cases
+- [www.comenix.com](https://www.comenix.com) — Home Planet
+- [Platform overview](https://www.comenix.com/#/pages/platform)
+- [Brand cases](https://www.comenix.com/#/pages/cases) — Skulor, HuanRing, Lieki, Fikix, Tsuakane, Yex
 
-[Skulor](https://www.skulor.com) · [HuanRing](https://www.huanring.com) · [Lieki](https://www.lieki.com) · [Fikix](https://fikix.com) · [Tsuakane](https://www.tsuakane.com) · [Yex](https://yex.cc)
+## Capabilities
 
-→ [Platform overview](https://www.comenix.com/#/pages/platform) · [All brand cases](https://www.comenix.com/#/pages/cases) · [About](https://www.comenix.com/#/pages/about)
+Constellation · Presentation · Chariot · Traveler · Stations · Security — see each page under Platform on the site above.
 
 Contact: contact@comenix.com
