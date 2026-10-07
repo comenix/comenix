@@ -14,6 +14,6 @@ One account across brands · market-fit checkout · one story on every screen ·
 - [Platform overview](https://www.comenix.com/pages/platform)
 - [Brand cases](https://www.comenix.com/pages/cases) — Skulor, HuanRing, Lieki, Fikix, SimonChou, Yex, Yei
 
-Today, to raise a Star: [Foundation from Skulor](https://www.comenix.com/pages/skulor) (independent brand product).
+Today, to raise a Star: [Foundation from Skulor](https://www.comenix.com/brand/skulor) (independent brand product).
 
 Contact: contact@comenix.com
